@@ -7,3 +7,5 @@ The architecture is micro-service based. So the whole solution is divided into m
 * [ServicePlace](https://github.com/afsharm/ServicePlace): Basic information about the services and providers (.NET/C#/SQLite)
 * [serpla-user](https://github.com/afsharm/serpla-user): User management (Nest/TypeScript/PostgreSQL)
 * [serpla-exp](https://github.com/afsharm/serpla-exp): User experiences (Express/JavaScript/MongoDB)
+
+![SERPLA architecture](serpla-architecture.png)
